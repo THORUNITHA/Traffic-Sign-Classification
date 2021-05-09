@@ -4,10 +4,10 @@ The Dataset I have used here is the German Traffic Sign Benchmark is a multi-cla
 The motivation for this project lays both personal interest in a better understanding for object detection and academic research. The goal is to develop a foundation for a roadsign-detection (RSD) with the option to add further objects or functions to it. The ultimate goal is to have useable object detection for the automotive sector.
 
 The goals / steps of this project are the following:
- Load and explore the data set.
- Realize LeNet architecture and use ReLu, mini-batch gradient
+1) Load and explore the data set.
+2) Realize LeNet architecture and use ReLu, mini-batch gradient
 descent and dropout.
- Realize AlexNet and make some modifications, use learning rate decay, Adam
+3) Realize AlexNet and make some modifications, use learning rate decay, Adam
 optimization and L2 regulization.
- Analyze the softmax probabilities of the new images
- Summarize the results
+4) Analyze the softmax probabilities of the new images
+5) Summarize the results
